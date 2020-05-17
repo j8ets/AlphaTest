@@ -77,7 +77,7 @@ console.log(isCheked || isClose);
 
 
 console.log("arr" + " - object");
-*/
+
 
 let incr = 10,
     decr = 10;
@@ -93,5 +93,9 @@ let isChecked = true,
     isClose = false;
 
     console.log(isChecked || isClose);
+
+
+
+*/
 
 
