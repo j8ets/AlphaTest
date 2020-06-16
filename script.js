@@ -59,7 +59,9 @@ console.log(isChecked || !isClose);
 */
 
 
-console.log(typeof(null));
+// console.log(typeof(null));
 
-console.log("arr" + "- object");
-console.log(4 + " - object");
+// console.log("arr" + "- object");
+// console.log(4 + " - object");
+
+
